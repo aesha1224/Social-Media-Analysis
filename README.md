@@ -359,10 +359,7 @@ in
 
 ## Links & Contact
 
-- **LinkedIn:** [kirtansoni02](https://www.linkedin.com/in/kirtansoni02/)
-- **Render Service URL:** [Live Ui On Render](https://social-media-fatigue-dashboard-ai.onrender.com)
-- **PowerBI Live Preview:**[Live Preview](https://app.powerbi.com/view?r=eyJrIjoiMjkxODA1OWQtZmNhOS00YmZiLThmZjMtMjA2ZTExNjQ5OGE5IiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9&pageName=57e7f34abb9002d1e2a0)
-- **novypro project:**[novypro Live](https://project.novypro.com/zZNzt7)
+- **LinkedIn:** [aeshaprjapati12](https://www.linkedin.com/in/aeshaprajapati12)
 
 ---
 
