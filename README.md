@@ -59,8 +59,6 @@ social-media-fatigue-dashboard-ai/
 │   ├── pic5.png            # Summary & Recommendations screenshot
 │   ├── database.png        # Database view (MySQL Workbench/pgAdmin)
 │   ├── html.png            # HTML frontend screenshot
-│   └── video.mp4           # Demo video
-└── render.yaml             # Render deployment configuration
 ```
 
 ---
@@ -359,7 +357,7 @@ in
 
 ## Links & Contact
 
-- **LinkedIn:** [aeshaprjapati12](https://www.linkedin.com/in/aeshaprajapati12)
+- **LinkedIn:** [aeshaprajapati12](https://www.linkedin.com/in/aeshaprajapati12)
 
 ---
 
